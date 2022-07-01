@@ -5,7 +5,7 @@ Tabla de multiplicar y carritos de compra
 # Trabajo-Final
 Tabla de multiplicar y carritos de compras.
 
-Este proyecto hace referencia a la tabla de multiplicar y los carritos de compra.
+Este proyecto hace referencia a la tabla de multiplicar y los carritos de compra, los cuales cuentan con 3 versiones (version 0, 1 y 2)
 Este proyecto fue elaborado con un lenguaje de programacion llamado JavaScript
 >Este proyecto fue elaborado por: *JUAN JOSÉ SANCHEZ BENITEZ*
 
@@ -14,22 +14,24 @@ Este proyecto fue elaborado con un lenguaje de programacion llamado JavaScript
 >Programa de formacion: *Analisis y desarrollo del software*
 
 # TABLA-DE-MULTIPLICAR
-En este repositorio encontraran un programa donde el usuario puede ingresar el numero y este le arrojara la tabla de este mismo.
-![image](https://user-images.githubusercontent.com/101758866/176949879-aca52b87-df3f-42da-8b02-a81e3d5b140e.png)
+En este se le pedira al usuario que dijite un numero, despues le mostraremos la tabla de multiplicar referente al numero dijitado. Si el usuario dijita la tabla 0 o no dijita nada, saldra la tabla del 10 por predeterminado.
+![image](https://user-images.githubusercontent.com/101678261/176961863-1b3c58e0-3860-4ec2-88d2-c81d5f98fec4.png)
 
 # CARRITOS-DE-COMPRAS
-En este repositorio encontraran un codigo de JavaScript elaborado con objetos, un programa de carrito de compras donde puede visualizar los productos que se venden, camisa, medias y pantalon y su respectivo valor, este le pedira la cantidad del producto que desea llevar y le arrojara el valor de la compra, y le permitira seguir comprando productos.
-Carrito de compras version 0
-![image](https://user-images.githubusercontent.com/101758866/176279104-6f93e76f-2801-40c7-9351-77b74700af67.png)
-Carrito de compras version 1
-![image](https://user-images.githubusercontent.com/101758866/176279854-42a8663e-8fe1-4857-90a1-10ccafe4eaff.png)
+
+Version 0
+![image](https://user-images.githubusercontent.com/101678261/176962081-f6d5972c-7f3f-4998-bd14-8386a6e6553b.png)
+En este encontraran un codigo de JavaScript elaborado con objetos, un programa de carrito de compras donde puede visualizar los productos que se venden, camisa, medias y pantalon y su respectivo valor, este le pedira la cantidad del producto que desea llevar y le arrojara el valor de la compra, y le permitira seguir comprando productos.
+
+
+Version 1
+![image](https://user-images.githubusercontent.com/101678261/176962286-b6b84873-723a-4a83-8d19-c0bfbc06f4c5.png)
+
 En este repositorio encontraran un codigo de JavaScript elaborado con clases, contiene metodos getter y setter,es un carrito de compras donde puede visualizar los productos que se venden, camisa, medias y pantalon y su respectivo valor, este le pedira la cantidad del producto que desea llevar y le arrojara el valor de la compra, y le permitira seguir comprando productos.
 
-Carrito de compras version 2
-![image](https://user-images.githubusercontent.com/101758866/176280458-f932835b-f105-4d72-9fd9-3c9286dbf9b3.png)
-![image](https://user-images.githubusercontent.com/101758866/176280557-0a65038d-0c43-47e8-9dd7-4911c9e1bb8c.png)
-![image](https://user-images.githubusercontent.com/101758866/176280696-8b8a2044-caae-4024-84a8-5806f5e1fa37.png)
-![image](https://user-images.githubusercontent.com/101758866/176280955-6231f9c6-1576-4799-be35-a8bcc6daf5b6.png)
-![image](https://user-images.githubusercontent.com/101758866/176282597-09a612bc-b077-45c5-be4d-116949afe450.png)
+Version 2
 
-en este repositorio encontraran un codigo de JavaScript elaborado con clases, un programa mas avanzado y completo de carrito de compras, contiene un archivo JSON, y se puede visualizar los productos que se venden, camisa, medias  pantalon tenis y zapatos, donde el administrador de la tienda puede agregar productos nuevos, y el cliente puede elegir el producto que desea comprar y  su respectivo valor, este le pedira la cantidad del producto que desea llevar y le arrojara el valor de la compra, y le permitira seguir comprando productos, al final se le imprimira una factura con los productos facturados.
+![image](https://user-images.githubusercontent.com/101678261/176962698-221e5c7d-3a6f-413d-a301-69eb2bccd290.png)
+
+
+En este encontraran un codigo de JavaScript elaborado con clases, un programa mas avanzado y completo de carrito de compras, contiene un archivo JSON, y se puede visualizar los productos que se venden, camisa, medias  pantalon tenis y zapatos, donde el administrador de la tienda puede agregar productos nuevos, y el cliente puede elegir el producto que desea comprar y  su respectivo valor, este le pedira la cantidad del producto que desea llevar y le arrojara el valor de la compra, y le permitira seguir comprando productos, al final se le imprimira una factura con los productos facturados.
